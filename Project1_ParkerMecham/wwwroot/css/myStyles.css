@@ -1,0 +1,40 @@
+﻿body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: gray;
+    font-size: 20px;
+}
+
+label {
+    font-size: 20px;
+    color: black;
+    width: 100px;
+    display: inline-block;
+}
+
+.head {
+
+    text-align: center;
+    max-width: 500px;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.list {
+          max-width: 500px;
+          margin: auto;
+          text-align: left;
+ }
+
+#weightedGrades {
+    border: solid;
+}
+
+.finalGrade {
+    margin: auto;
+    text-align: center;
+    color: navajowhite;
+    font-size: 28px;
+}
