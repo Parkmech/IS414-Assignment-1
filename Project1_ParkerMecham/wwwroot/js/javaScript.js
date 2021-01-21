@@ -12,37 +12,37 @@
     if (finalGrade < 60) {
         letterGrade = "E";
     }
-    if (finalGrade < 64 ) {
+    else if (finalGrade < 64 ) {
         letterGrade = "D-";
     }
-    if (finalGrade < 67) {
+    else if (finalGrade < 67) {
         letterGrade = "D";
     }
-    if (finalGrade < 70) {
+    else if (finalGrade < 70) {
         letterGrade = "D+";
     }
-    if (finalGrade < 74) {
+    else if (finalGrade < 74) {
         letterGrade = "C-";
     }
-    if (finalGrade < 77) {
+    else if (finalGrade < 77) {
         letterGrade = "C";
     }
-    if (finalGrade < 80) {
+    else if (finalGrade < 80) {
         letterGrade = "C+";
     }
-    if (finalGrade < 84) {
+    else if (finalGrade < 84) {
         letterGrade = "B-";
     }
-    if (finalGrade < 87) {
+    else if (finalGrade < 87) {
         letterGrade = "B";
     }
-    if (finalGrade < 90) {
+    else if (finalGrade < 90) {
         letterGrade = "B+";
     }
-    if (finalGrade < 94) {
+    else if (finalGrade < 94) {
         letterGrade = "A-";
     }
-    if (finalGrade >= 94) {
+    else if (finalGrade >= 94) {
             letterGrade = "A";
     }
     
